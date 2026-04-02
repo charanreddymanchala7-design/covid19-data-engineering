@@ -123,10 +123,5 @@ Email: charanreddymanchala9@gmail.com
 
 ---
 
-## About the Developer
-Charan Reddy Manchala is a 5x Certified Salesforce Developer with 8 years of experience designing, developing, and implementing innovative solutions on the Salesforce platform. Expert in integrating complex systems using REST and SOAP APIs, Platform Events, and OAuth 2.0, this project serves as a demonstration of applying those core integration and data management principles within the Azure Data Engineering ecosystem.
-
----
-
 ## License
 This project is licensed under the MIT License.
